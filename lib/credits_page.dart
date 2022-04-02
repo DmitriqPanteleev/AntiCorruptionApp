@@ -112,22 +112,6 @@ class CreditsPage extends StatelessWidget {
                                           ],
                                         ),
                                       )
-                                      // Text.rich(
-                                      //   TextSpan(
-                                      //     text: 'http://imr-anons.ru/pk6',
-                                      //     mouseCursor: SystemMouseCursors.click,
-                                      //     recognizer: TapGestureRecognizer()
-                                      //       ..onTap = () => launch(
-                                      //           'http://imr-anons.ru/pk6'),
-                                      //     style: const TextStyle(
-                                      //       color: Colors.blue,
-                                      //       fontSize: 20,
-                                      //       decoration:
-                                      //           TextDecoration.underline,
-                                      //     ),
-                                      //   ),
-                                      // ),
-                                      // const SizedBox(height: 8,)
                                     ],
                                   ),
                                   const SizedBox(

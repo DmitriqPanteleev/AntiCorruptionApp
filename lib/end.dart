@@ -90,36 +90,6 @@ class _RealEndPageState extends State<RealEndPage> {
                         ),
                       ),
                     ],
-                    // children: <Widget>[
-                    //   const SizedBox(height: 24),
-                    //   const Padding(
-                    //     padding:
-                    //         EdgeInsets.symmetric(horizontal: 40, vertical: 20),
-                    //     child: Text(
-                    //       'ВЫ ИЗУЧИЛИ КОНЦЕПЦИЮ СОВРЕМЕННЫХ МОДЕЛЕЙ ГОСУДАРСТВЕННОЙ АНТИКОРРУПЦИОННОЙ ПОЛИТИКИ И ПРАВИЛЬНО ОТВЕТИЛИ НА ВСЕ ВОПРОСЫ САМОКОНТРОЛЯ!',
-                    //       maxLines: 5,
-                    //       textAlign: TextAlign.center,
-                    //       style: TextStyle(fontSize: 52),
-                    //     ),
-                    //   ),
-                    //   const SizedBox(height: 24),
-                    //   Padding(
-                    //     padding: const EdgeInsets.only(top: 420),
-                    //     child: Center(
-                    //       child: AnimatedOpacity(
-                    //         duration: const Duration(seconds: 4),
-                    //         opacity: 0.6,
-                    //         child: SizedBox(
-                    //           height: 200,
-                    //           width: MediaQuery.of(context).size.width * 1,
-                    //           child: const Image(
-                    //             image: AssetImage("assets/stamp.jpg"),
-                    //           ),
-                    //         ),
-                    //       ),
-                    //     ),
-                    //   )
-                    // ],
                   ),
                   const SizedBox(height: 90),
                 ],
